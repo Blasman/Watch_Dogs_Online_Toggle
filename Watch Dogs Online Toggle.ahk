@@ -15,7 +15,7 @@ CreateFirewallRules() {
 
 CreateFirewallRules()
 
-Gui, Font, s12, Helvetica Bold
+Gui, Font, s12, Tahoma Bold
 Gui, Add, Button, x15 y45 w100 h30 gBlock_Online, BLOCK
 Gui, Add, Button, x125 y45 w100 h30 gUnblock_Online, UNBLOCK
 Gui, Font, s17 cGreen, Verdana
