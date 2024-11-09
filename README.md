@@ -14,8 +14,10 @@ It can also be used to safely roam around Chicago (testing out mods, whatever) w
 
 ## Usage
 
-Click **BLOCK** to disable online services. Click **UNBLOCK** to enable online services.
+Click `BLOCK` to disable online services. Click `UNBLOCK` to enable online services. Click `QUICK DC` to temporarily disable online services for 6.5 seconds and automatically tab back to your game.
 
 ## Screenshots
 
-![Example Image](https://i.imgur.com/wb4BQC7.png)    ![Example Image](https://i.imgur.com/KB9A1hk.png)
+![Online](https://i.imgur.com/iTqXTgX.png)    ![Offline](https://i.imgur.com/p2qAbPj.png)
+
+![Disconnected](https://i.imgur.com/sJhnatl.png)  
