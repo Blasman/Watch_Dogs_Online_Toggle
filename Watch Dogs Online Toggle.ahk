@@ -55,7 +55,7 @@ return
 Quick_DC:
     if WinExist("ahk_exe watch_dogs.exe") {
         WinActivate
-        Send, {ESC}
+      ; Send, {ESC}
     }
     GuiControl, Disable, Block_Button
     GuiControl, Disable, Quick_DC_Button
