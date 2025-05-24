@@ -1,6 +1,10 @@
 # Watch_Dogs_Online_Toggle
 
-An application made with AutoHotkey (v1.1) that allows you to enable and disable online services on the fly for Watch_Dogs 1 on PC.
+For this app's simple functionality and more, see [WDIN](https://www.nexusmods.com/watchdogs/mods/395) instead.
+
+If you need to BLOCK other players online in Watch Dogs, see [this](https://gist.github.com/Blasman/15e95ef13ad2e0fd24d5b7b7cb571522) instead.
+
+Watch_Dogs_Online_Toggle is application made with AutoHotkey (v1.1) that allows you to enable and disable online services on the fly for Watch_Dogs 1 on PC.
 
 This application was created in response to users abusing an in-game exploit commonly referred to as a "permahack." By using this application, you can now disconnect from the other player without having to exit your game.
 
